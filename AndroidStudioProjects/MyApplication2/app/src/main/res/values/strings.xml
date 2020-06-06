@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Tomer love pizza</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="edit_message">Enter a Message</string>
-    <string name="buttem_send">Send!</string>
-</resources>

@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">example1</string>
-    <string name="goodby">Goodby World</string>
-    <string name="change">Change String</string>
-    <string name="hello">Hello World</string>
-</resources>
