@@ -1,2 +1,2 @@
-# Computer vision
+# Android lab
 my homework from Android lab
