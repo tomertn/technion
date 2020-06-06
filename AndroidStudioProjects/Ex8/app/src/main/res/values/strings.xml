@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ex8</string>
+    <string name="select">Select Name</string>
+    <string name="selected">Selected Name</string>
+    <string name="select_button">Select</string>
+    <string-array name="Contacts">
+        <item>Dan Levi</item>
+        <item>Yossi Cohen</item>
+        <item>Amir Sarig</item>
+        <item>Guy Shachar</item>
+        <item>Tomer Navon</item>
+    </string-array>
+</resources>

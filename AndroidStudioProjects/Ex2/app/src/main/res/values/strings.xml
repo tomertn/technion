@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex2</string>
+    <string name="text_input">Text Input...</string>
+    <string name="pop_button">Click To Pop Message</string>
+</resources>

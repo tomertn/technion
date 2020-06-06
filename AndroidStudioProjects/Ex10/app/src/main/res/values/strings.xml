@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex10</string>
+    <string name="go">GO</string>
+    <string name="enterUrl">Enter URL:</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex6</string>
+    <string name="url">Enter Background URL</string>
+    <string name="enter_text">Enter your text here</string>
+    <string name="test">Test Background</string>
+    <string name="back">Back</string>
+</resources>

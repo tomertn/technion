@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex4</string>
+    <string name="powerOn">Power ON</string>
+    <string name="urlOff">http://softlab.technion.ac.il/kulik/off.png</string>
+    <string name="urlOn">http://softlab.technion.ac.il/kulik/on.png</string>
+    <string name="powerOff">Power Off</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex7</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="enterUrl">Enter MP3 URL</string>
+    <string name="inv">Invalid Address</string>
+</resources>

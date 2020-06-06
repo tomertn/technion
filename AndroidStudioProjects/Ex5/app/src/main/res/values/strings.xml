@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex5</string>
+    <string name="initMsg">Please Enter Initial Number</string>
+    <string name="enterNum">Enter Number</string>
+    <string name="clac">Claculate</string>
+    <string name="number">Number</string>
+    <string name="min">MIN</string>
+    <string name="pluse">PLUSE</string>
+    <string name="finish">FINISH</string>
+</resources>
